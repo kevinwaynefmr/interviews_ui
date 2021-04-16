@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as styles from './style.scss';
-import * as placeholderSrc from '../../../static/images/placeholder.png';
+import placeholderSrc from '../../../static/images/placeholder.png';
 
 export namespace Simple1 {
   export interface Props {
